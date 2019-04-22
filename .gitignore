@@ -1,0 +1,4 @@
+*.pdf
+data/*
+lecture_notes/*
+homework/.*
