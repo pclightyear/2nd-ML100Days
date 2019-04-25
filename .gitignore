@@ -1,5 +1,6 @@
 *.pdf
 data/*
 lecture_notes/*
+sample/*
 homework/.*
 *.txt
