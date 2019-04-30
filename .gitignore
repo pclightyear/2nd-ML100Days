@@ -3,4 +3,5 @@ data/*
 lecture_notes/*
 example/*
 homework/.*
+hw_answer/*
 *.txt
